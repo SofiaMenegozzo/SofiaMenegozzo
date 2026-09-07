@@ -30,4 +30,4 @@ SQL · MongoDB · Graph Databases · QGIS
 
 ### Let's connect
 I'm always interested in learning, collaborating and discovering new ways to use data to understand real-world problems.
-
+https://www.linkedin.com/in/sofia-menegozzo-875bb93b0

@@ -19,6 +19,7 @@ I like asking the right question before looking for the answer, then taking a da
 | [Purchasing Power in Italy](https://github.com/SofiaMenegozzo/Evolution-of-Purchasing-Power-in-Italy) | Nominal vs real income, inflation and regional inequality, 2016–2024 | Correlation, PCA, cluster analysis, composite indicator, choropleth maps | Python, R, QGIS |
 | [Survey Design & Well-Being Index](https://github.com/SofiaMenegozzo/Survey-Design-and-Statistical-Models-and-Composite-Well-Being-Index) | Questionnaire design, Guttman scale, BES-based composite index | Scale validation, Z-scores, robustness checks, hierarchical clustering | R, Excel |
 | [Demographic Analysis of Mantua](https://github.com/SofiaMenegozzo/Demographic-Analysis-of-Mantua-from-2002-to-2024.) | Population dynamics of Mantua, 2002–2024 | Demographic indicators, age structure, projections | Excel |
+| [Population, Territory and Society](https://github.com/SofiaMenegozzo/Population-Territory-and-Society) | Spatial demography of Liguria: five applied exercises on ISTAT data | Scale effects, Hoover & Gini concentration, location quotients, log-linear migration models, segregation indices | Python, R, SPSS, Excel |
 
 ### Toolbox
 - **Languages:** Python · R · SAS (certified) · SQL 

@@ -4,14 +4,14 @@
 
 I like asking the right question before looking for the answer, then taking a dataset all the way from cleaning to model to a result someone can actually read.
 
-### 🔭 Currently
+### Currently
 
 - **Research Intern** at the MMSP Lab (DISCo, University of Milano-Bicocca) — statistical analysis of emotional responses to AI-generated images, in Python and R
 - **Bachelor's thesis** — statistical analysis of emotional and physiological data from wearables (Garmin, Oura Ring), smartphones and questionnaires
 - **Bloomberg Challenge 2026** — Risk Analyst
 - Member of the **Bicocca Machine Learning Association**
 
-### 📊 Projects
+### Projects
 
 | Project | What it does | Methods | Tools |
 |---|---|---|---|
@@ -20,15 +20,15 @@ I like asking the right question before looking for the answer, then taking a da
 | [Survey Design & Well-Being Index](https://github.com/SofiaMenegozzo/Survey-Design-and-Statistical-Models-and-Composite-Well-Being-Index) | Questionnaire design, Guttman scale, BES-based composite index | Scale validation, Z-scores, robustness checks, hierarchical clustering | R, Excel |
 | [Demographic Analysis of Mantua](https://github.com/SofiaMenegozzo/Demographic-Analysis-of-Mantua-from-2002-to-2024.) | Population dynamics of Mantua, 2002–2024 | Demographic indicators, age structure, projections | Excel |
 
-### 🛠️ Toolbox
+### Toolbox
 
 **Languages:** Python · R · SAS (certified) · SQL
 **Data & ML:** pandas · NumPy · tidyverse · caret · ggplot2 · Matplotlib · Seaborn
 **Statistics:** inference · regression · multivariate analysis (PCA, clustering) · EDA
 **Data storage & spatial:** SQL · MongoDB · graph databases · QGIS
 
-### 🌍 Languages
+### Languages
 Italian (native) · English (B2) · Spanish (B2)
 
-### 📫 Let's connect
+### Let's connect
 [LinkedIn](https://www.linkedin.com/in/sofia-menegozzo-875bb93b0)

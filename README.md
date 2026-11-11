@@ -1,4 +1,4 @@
-## Hi, I'm Sofia 👋
+## Hi, I'm Sofia  
 
 **Statistics & Data Science student** at the University of Milano-Bicocca, working at the intersection of statistical modelling, machine learning and real-world data.
 
@@ -21,11 +21,10 @@ I like asking the right question before looking for the answer, then taking a da
 | [Demographic Analysis of Mantua](https://github.com/SofiaMenegozzo/Demographic-Analysis-of-Mantua-from-2002-to-2024.) | Population dynamics of Mantua, 2002–2024 | Demographic indicators, age structure, projections | Excel |
 
 ### Toolbox
-
-**Languages:** Python · R · SAS (certified) · SQL
-**Data & ML:** pandas · NumPy · tidyverse · caret · ggplot2 · Matplotlib · Seaborn
-**Statistics:** inference · regression · multivariate analysis (PCA, clustering) · EDA
-**Data storage & spatial:** SQL · MongoDB · graph databases · QGIS
+- **Languages:** Python · R · SAS (certified) · SQL 
+- **Data & ML:** pandas · NumPy · tidyverse · caret · ggplot2 · Matplotlib · Seaborn
+- **Statistics:** inference · regression · multivariate analysis (PCA, clustering) · EDA
+- **Data storage & spatial:** SQL · MongoDB · graph databases · QGIS
 
 ### Languages
 Italian (native) · English (B2) · Spanish (B2)

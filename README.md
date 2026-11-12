@@ -31,4 +31,4 @@ I like asking the right question before looking for the answer, then taking a da
 Italian (native) · English (B2) · Spanish (B2)
 
 ### Let's connect
-[LinkedIn](https://www.linkedin.com/in/sofia-menegozzo-875bb93b0)
+[LinkedIn](https://www.linkedin.com/in/sofia-menegozzo-sm1/)
